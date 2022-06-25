@@ -38,3 +38,7 @@ footer {
     background-color: #e0e0e0;
     padding-inline: 12.5%;
 }
+input {
+    width: 25%;
+    height: 100%;
+}
