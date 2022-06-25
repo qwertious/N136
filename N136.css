@@ -39,6 +39,13 @@ footer {
     padding-inline: 12.5%;
 }
 input {
-    width: 25%;
-    height: 100%;
+    width: 128px;
+}
+a {
+    color: #00ff00;
+    text-decoration: none;
+    padding: 0;
+}
+b {
+    padding: 0;
 }
